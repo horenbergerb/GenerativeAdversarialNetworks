@@ -1,0 +1,20 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}The Basics of GANs}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Motivating GANs}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Defining a GAN}{3}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}GANs Minimize Jensen-Shannon Divergence}{3}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Summary}{5}{subsection.1.4}
+\contentsline {section}{\numberline {2}The Problem With GANs}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}Overview}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Definitions for Distributions and Manifolds}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}The Support of $p_G$ Has Low Dimension}{6}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}The Support of $p_{\mathbf {x}}$ is Assumed to Have Low Dimension}{8}{subsubsection.2.3.1}
+\contentsline {subsection}{\numberline {2.4}Perfect Discriminators Usually Exist}{8}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}When the Supports of $p_G$ and $p_{\mathbf {x}}$ Are Disjoint}{8}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.2}When the Supports of $p_G$ and $p_{\mathbf {x}}$ Are Not Disjoint}{9}{subsubsection.2.4.2}
+\contentsline {subsection}{\numberline {2.5}Perfect Discriminators Cause Vanishing Gradients}{10}{subsection.2.5}
+\contentsline {section}{\numberline {3}GAN Implementations}{12}{section.3}
+\contentsline {subsection}{\numberline {3.1}GAN With Sigmoid Loss}{12}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}GAN With Least Squares Loss}{13}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Deep Convolutional GAN}{14}{subsection.3.3}
+\contentsline {section}{\numberline {4}Conclusion}{15}{section.4}
